@@ -1,0 +1,25 @@
+Data for customer: #1
+name: katariina
+e-mail: miuku@mauku.com
+phone number: 0100100
+Data for customer: #2
+name: pekka
+e-mail: mauku@miuku.com
+phone number: 1001001
+Data for customer: #3
+name: manu
+e-mail: maku@naku
+phone number: 2001200
+Data for customer: #4
+name: laura
+e-mail: @
+phone number: 666
+Data for customer: #5
+name: make
+e-mail: ”k”
+phone number: 69
+
+Data for customer: #6
+name: saatana
+e-mail: gotohell
+phone number: 666

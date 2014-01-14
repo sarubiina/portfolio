@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>css-tehtävä</title>
+<link href="CSS.css" rel="stylesheet" type="text/css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<h1>Suomalaisia jouluperinteit&auml;: Tiernapojat <br>
+  </h1>
+<h2>Johdanto</h2>
+<p><br>
+  Tiernapojat on vuosisatoja vanha suomalainen jouluperinne, laulun&auml;ytelm&auml;, jota nuoret pojat alun perin kiersiv&auml;t taloissa esitt&auml;m&auml;ss&auml;. Kuvaelma kertoo it&auml;maan tiet&auml;jien matkasta Jeesus -lapsen luo ja kuningas Herodeksesta , joka vihoissaan surmaa kaikki pienet poikalapset toivoen siten saavansa hengilt&auml; my&ouml;s vastasyntyneen Jeesuksen, juutalaisten kuninkaan. Nyky&auml;&auml;n tiernapoikia tapaa l&auml;hinn&auml; erilaisissa joulu- ja pikkujoulujuhlissa.</p>
+<h2>  Historia </h2>
+<p><br>
+  Tiernapojat on saanut alkunsa Oulusta , jossa k&ouml;yh&auml;t opiskelijat laativat lis&auml;ansion toivossa joulukuvaelman ja kulkivat kaupungin taloissa sit&auml; esitt&auml;m&auml;ss&auml;. Sill&auml; on juurensa vastaavissa keskiaikaisissa etel&auml;eurooppalaisissa traditioissa. Tarkkaa syntyaikaa on mahdotonta sanoa, mutta kiert&auml;vist&auml; tiernapojista tai t&auml;htipojista on mainintoja ainakin 1700-luvun lopulta. Nimi tiernapoika tulee ruotsin sanasta stj&auml;rna , t&auml;hti. <br>
+  <br>
+  Nykyinen versio on syntynyt 1800-luvun loppupuolella, mik&auml; voidaan p&auml;&auml;tell&auml; siit&auml;, ett&auml; laulussa mainitaan Suomen suuriruhtinas Aleksanteri . T&auml;m&auml; hallintovallan ylist&auml;minen lis&auml;ttiin n&auml;ytelm&auml;&auml;n luultavasti viranomaisten tyynnytt&auml;miseksi. Sen sijaan itsen&auml;isyyden ajalla Ven&auml;j&auml;n kehuminen ei ollutkaan en&auml;&auml; suotavaa, ja suuriruhtinaan tilalle ehdottettiin laulettavaksi "Pohjolan sotasankari Mannerheim ". T&auml;m&auml; ei kuitenkaan koskaan vakiintunut osaksi n&auml;ytelm&auml;&auml; ja nyky&auml;&auml;n tiernapojat laulavat ainoastaan "Keisari Aleksanterista, Suomenmaan suuriruhtinaasta" <br>
+  <br>
+  Tiernapojat ei alkuaikoina Oulussa ollut kovin pidetty ilmi&ouml;. Kilpailu oli kovaa ja usein jouduttiin tappeluun, jossa toisten varusteita yritettiin s&auml;rke&auml;. Sotien j&auml;lkeen tiernapoikia liikkui niin paljon, ett&auml; esiintyminen tehtiin luvanvaraiseksi: vain parhaat laulajat p&auml;&auml;siv&auml;t kiert&auml;m&auml;&auml;n. </p>
+<h2>Henkil&ouml;t </h2>
+<p><br>
+  N&auml;ytelm&auml;ss&auml; on yleens&auml; nelj&auml; henkil&ouml;&auml;: kuningas Herodes, Murjaanien kuningas, Herodeksen palvelija Knihti ja M&auml;nkki eli t&auml;hdenpy&ouml;ritt&auml;j&auml;. N&auml;ytelm&auml;n kieli on s&auml;ilynyt vanhahtavana Oulun murteena. Kullakin henkil&ouml;ll&auml; on vuorollaan omat laulusoolonsa. V&auml;liin lauletaan yhdess&auml;, v&auml;liin on my&ouml;s puhetta. N&auml;ytelm&auml;n lopussa tiernapojat toivottavat hyv&auml;&auml; joulua sek&auml; pyyt&auml;v&auml;t palkkiota esityksest&auml;&auml;n. <br>
+  <br>
+  N&auml;yttelij&ouml;iden rooliasut vaihtelevat, mutta tyypillisi&auml; piirteit&auml; ovat seuraavat: <br>
+  <br>
+  Kuningas Herodes on pukeutunut viittaan ja kruunuun. <br>
+  Murjaanien kuningas on pukeutunut kuten Herodes ja v&auml;rj&auml;nnyt kasvonsa mustiksi. <br>
+  Knihtin asu on yksinkertaisempi, ja h&auml;nell&auml; on yleens&auml; suoran lieri&ouml;n muotoinen hattu. <br>
+  M&auml;nkill&auml; on viitta, py&ouml;riv&auml; t&auml;hti kepin p&auml;&auml;ss&auml; ja joskus kartionmuotoinen hattu. <br>
+  Kaikilla muilla paitsi M&auml;nkill&auml; on lis&auml;ksi miekka. </p>
+<h2>N&auml;ytelm&auml;n kulku </h2>
+<p><br>
+  N&auml;ytelm&auml;n alussa Knihti pyyt&auml;&auml; lupaa esiinty&auml;, "tulla laulamaan". T&auml;t&auml; seuraa tervehdyslaulu, jossa toivotetaan hyv&auml;&auml; joulua. <br>
+  <br>
+  Herodes on matkalla Betlehemiin ja laulaa kulkien samalla edestakaisin Murjaanien kuninkaan ja Knihtin yl&ouml;s ristiin kohotettujen miekkojen v&auml;list&auml;. Jokaisella alituskerralla h&auml;n tempaisee ristiss&auml; olevat miekat erilleen omalla miekallaan. T&auml;t&auml; seuraa Murjaanien kuninkaan ja Herodeksen vuoropuhelu, jossa Herodes k&auml;skee Murjaanien kuninkaan polvistua eteens&auml;. Murjaanien kuninkaan on soolo-osuuden j&auml;lkeen alistuttava ja polvistuttava. <br>
+  <br>
+  M&auml;nkki ilmoittaa ilosanoman Jeesuksen syntym&auml;st&auml;. Kaikki laulavat, samalla M&auml;nkki py&ouml;ritt&auml;&auml; t&auml;hte&auml;. Lauletaan Betlehemin t&auml;hdest&auml; ja it&auml;maan tiet&auml;jist&auml;, jotka tulevat antamaan lahjoja Jeesus-lapselle. Herodes tiedustelee Knihtilt&auml;, onko t&auml;m&auml; n&auml;hnyt "niit&auml; kolmea it&auml;isen maan viisasta miest&auml;", mihin Knihti vastaa heid&auml;n livahtaneen omalle maalleen eri teit&auml;. Herodes suuttuu t&auml;st&auml; ja k&auml;skee Knihtin menn&auml; Betlehemiin tappamaan kaikki alle kaksivuotiaat poikalapset. Knihti kulkee samalla tavalla kuin Herodes ja Murjaanien kuningas aiemmin n&auml;iden ristiin kohotettujen miekkojen alta ja laulaa. Knihti poistuu hetkeksi, sill&auml; aikaa muut laulavat ylistyst&auml; Suomen suuriruhtinaalle Aleksanterille. <br>
+  <br>
+  Knihti palaa ja ilmoittaa tappaneensa kaikki poikalapset (t&auml;ss&auml; kohtaa n&auml;ytelm&auml;ss&auml; h&auml;nen miekkansa on usein v&auml;rj&auml;tty punaisella liidulla aiheen dramatisoimiseksi). Herodes palkitsee h&auml;net urheudesta. Kaikki laulavat siit&auml;, miten enkelit ilmoittivat paimenille Vapahtajan syntym&auml;st&auml;. N&auml;ytelm&auml; p&auml;&auml;ttyy Jumalan ylistykseen. Lopuksi Knihti pyyt&auml;&auml; lanttia ja M&auml;nkki t&auml;hteen kynttil&auml;np&auml;tk&auml;&auml;. Palkkion ker&auml;&auml;misen j&auml;lkeen kaikki laulavat kiitoslaulun, toivottavat viel&auml; kerran hyv&auml;&auml; joulua ja poistuvat. </p>
+<h2>L&auml;hteet <br>
+  </h2>
+<p>T&auml;m&auml; on suora lainaus osoitteesta: <a href="http://fi.wikipedia.org/wiki/Tiernapojat" target="_blank">http://fi.wikipedia.org/wiki/Tiernapojat</a></p>
+</body>
+</html>

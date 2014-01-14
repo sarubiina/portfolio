@@ -1,0 +1,19 @@
+body	{
+ 	 font-family: "Times New Roman";
+ 	 color: blue;
+	 
+	}
+
+h1	{
+ 	 color: red;
+ 	 font-size: 14pt;
+	}
+
+h2	{
+ 	 color: blue;
+ 	 font-size: 12pt;
+	}
+a:link {color: #33CCFF;}
+a:visited {color: #33CCFF;}
+a:hover {color: gray;}
+a:active {color: green;}
